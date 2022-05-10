@@ -1,0 +1,90 @@
+C:\Users\Lenovo\source\repos\project2\bebi\PS_36_Magdalena_Evgenieva\StudentInfoSystem\bin\Debug\log.txt
+C:\Users\Lenovo\source\repos\project2\bebi\PS_36_Magdalena_Evgenieva\StudentInfoSystem\bin\Debug\StudentInfoSystem.exe.config
+C:\Users\Lenovo\source\repos\project2\bebi\PS_36_Magdalena_Evgenieva\StudentInfoSystem\bin\Debug\StudentInfoSystem.exe
+C:\Users\Lenovo\source\repos\project2\bebi\PS_36_Magdalena_Evgenieva\StudentInfoSystem\bin\Debug\StudentInfoSystem.pdb
+C:\Users\Lenovo\source\repos\project2\bebi\PS_36_Magdalena_Evgenieva\StudentInfoSystem\bin\Debug\UserLogin.exe
+C:\Users\Lenovo\source\repos\project2\bebi\PS_36_Magdalena_Evgenieva\StudentInfoSystem\bin\Debug\UserLogin.pdb
+C:\Users\Lenovo\source\repos\project2\bebi\PS_36_Magdalena_Evgenieva\StudentInfoSystem\bin\Debug\UserLogin.exe.config
+C:\Users\Lenovo\source\repos\project2\bebi\PS_36_Magdalena_Evgenieva\StudentInfoSystem\obj\Debug\StudentInfoSystem.csproj.AssemblyReference.cache
+C:\Users\Lenovo\source\repos\project2\bebi\PS_36_Magdalena_Evgenieva\StudentInfoSystem\obj\Debug\MainWindow.g.cs
+C:\Users\Lenovo\source\repos\project2\bebi\PS_36_Magdalena_Evgenieva\StudentInfoSystem\obj\Debug\App.g.cs
+C:\Users\Lenovo\source\repos\project2\bebi\PS_36_Magdalena_Evgenieva\StudentInfoSystem\obj\Debug\StudentInfoSystem_MarkupCompile.cache
+C:\Users\Lenovo\source\repos\project2\bebi\PS_36_Magdalena_Evgenieva\StudentInfoSystem\obj\Debug\StudentInfoSystem_MarkupCompile.lref
+C:\Users\Lenovo\source\repos\project2\bebi\PS_36_Magdalena_Evgenieva\StudentInfoSystem\obj\Debug\MainWindow.baml
+C:\Users\Lenovo\source\repos\project2\bebi\PS_36_Magdalena_Evgenieva\StudentInfoSystem\obj\Debug\StudentInfoSystem.g.resources
+C:\Users\Lenovo\source\repos\project2\bebi\PS_36_Magdalena_Evgenieva\StudentInfoSystem\obj\Debug\StudentInfoSystem.Properties.Resources.resources
+C:\Users\Lenovo\source\repos\project2\bebi\PS_36_Magdalena_Evgenieva\StudentInfoSystem\obj\Debug\StudentInfoSystem.csproj.GenerateResource.cache
+C:\Users\Lenovo\source\repos\project2\bebi\PS_36_Magdalena_Evgenieva\StudentInfoSystem\obj\Debug\StudentInfoSystem.csproj.CoreCompileInputs.cache
+C:\Users\Lenovo\source\repos\project2\bebi\PS_36_Magdalena_Evgenieva\StudentInfoSystem\obj\Debug\StudentInfoSystem.exe
+C:\Users\Lenovo\source\repos\project2\bebi\PS_36_Magdalena_Evgenieva\StudentInfoSystem\obj\Debug\StudentInfoSystem.pdb
+D:\TU\6 semestyr\ps\StudentInfoSystem-main\PS_36_Mihail_Mihov\StudentInfoSystem\bin\Debug\log.txt
+D:\TU\6 semestyr\ps\StudentInfoSystem-main\PS_36_Mihail_Mihov\StudentInfoSystem\bin\Debug\StudentInfoSystem.exe.config
+D:\TU\6 semestyr\ps\StudentInfoSystem-main\PS_36_Mihail_Mihov\StudentInfoSystem\bin\Debug\StudentInfoSystem.exe
+D:\TU\6 semestyr\ps\StudentInfoSystem-main\PS_36_Mihail_Mihov\StudentInfoSystem\bin\Debug\StudentInfoSystem.pdb
+D:\TU\6 semestyr\ps\StudentInfoSystem-main\PS_36_Mihail_Mihov\StudentInfoSystem\bin\Debug\UserLogin.exe
+D:\TU\6 semestyr\ps\StudentInfoSystem-main\PS_36_Mihail_Mihov\StudentInfoSystem\bin\Debug\UserLogin.pdb
+D:\TU\6 semestyr\ps\StudentInfoSystem-main\PS_36_Mihail_Mihov\StudentInfoSystem\bin\Debug\UserLogin.exe.config
+D:\TU\6 semestyr\ps\StudentInfoSystem-main\PS_36_Mihail_Mihov\StudentInfoSystem\obj\Debug\StudentInfoSystem.csproj.AssemblyReference.cache
+D:\TU\6 semestyr\ps\StudentInfoSystem-main\PS_36_Mihail_Mihov\StudentInfoSystem\obj\Debug\StudentInfoSystem.csproj.SuggestedBindingRedirects.cache
+D:\TU\6 semestyr\ps\StudentInfoSystem-main\PS_36_Mihail_Mihov\StudentInfoSystem\obj\Debug\MainWindow.g.cs
+D:\TU\6 semestyr\ps\StudentInfoSystem-main\PS_36_Mihail_Mihov\StudentInfoSystem\obj\Debug\App.g.cs
+D:\TU\6 semestyr\ps\StudentInfoSystem-main\PS_36_Mihail_Mihov\StudentInfoSystem\obj\Debug\StudentInfoSystem_MarkupCompile.cache
+D:\TU\6 semestyr\ps\StudentInfoSystem-main\PS_36_Mihail_Mihov\StudentInfoSystem\obj\Debug\StudentInfoSystem_MarkupCompile.lref
+D:\TU\6 semestyr\ps\StudentInfoSystem-main\PS_36_Mihail_Mihov\StudentInfoSystem\obj\Debug\MainWindow.baml
+D:\TU\6 semestyr\ps\StudentInfoSystem-main\PS_36_Mihail_Mihov\StudentInfoSystem\obj\Debug\StudentInfoSystem.g.resources
+D:\TU\6 semestyr\ps\StudentInfoSystem-main\PS_36_Mihail_Mihov\StudentInfoSystem\obj\Debug\StudentInfoSystem.Properties.Resources.resources
+D:\TU\6 semestyr\ps\StudentInfoSystem-main\PS_36_Mihail_Mihov\StudentInfoSystem\obj\Debug\StudentInfoSystem.csproj.GenerateResource.cache
+D:\TU\6 semestyr\ps\StudentInfoSystem-main\PS_36_Mihail_Mihov\StudentInfoSystem\obj\Debug\StudentInfoSystem.csproj.CoreCompileInputs.cache
+D:\TU\6 semestyr\ps\StudentInfoSystem-main\PS_36_Mihail_Mihov\StudentInfoSystem\obj\Debug\StudentInfoSystem.csproj.CopyComplete
+D:\TU\6 semestyr\ps\StudentInfoSystem-main\PS_36_Mihail_Mihov\StudentInfoSystem\obj\Debug\StudentInfoSystem.exe
+D:\TU\6 semestyr\ps\StudentInfoSystem-main\PS_36_Mihail_Mihov\StudentInfoSystem\obj\Debug\StudentInfoSystem.pdb
+D:\TU\6 semestyr\ps\Mihail_Mihov_36_501219032_exercise_5\PS_36_Mihail_Mihov\StudentInfoSystem\bin\Debug\log.txt
+D:\TU\6 semestyr\ps\Mihail_Mihov_36_501219032_exercise_5\PS_36_Mihail_Mihov\StudentInfoSystem\bin\Debug\StudentInfoSystem.exe.config
+D:\TU\6 semestyr\ps\Mihail_Mihov_36_501219032_exercise_5\PS_36_Mihail_Mihov\StudentInfoSystem\bin\Debug\StudentInfoSystem.exe
+D:\TU\6 semestyr\ps\Mihail_Mihov_36_501219032_exercise_5\PS_36_Mihail_Mihov\StudentInfoSystem\bin\Debug\StudentInfoSystem.pdb
+D:\TU\6 semestyr\ps\Mihail_Mihov_36_501219032_exercise_5\PS_36_Mihail_Mihov\StudentInfoSystem\bin\Debug\UserLogin.exe
+D:\TU\6 semestyr\ps\Mihail_Mihov_36_501219032_exercise_5\PS_36_Mihail_Mihov\StudentInfoSystem\bin\Debug\UserLogin.pdb
+D:\TU\6 semestyr\ps\Mihail_Mihov_36_501219032_exercise_5\PS_36_Mihail_Mihov\StudentInfoSystem\bin\Debug\UserLogin.exe.config
+D:\TU\6 semestyr\ps\Mihail_Mihov_36_501219032_exercise_5\PS_36_Mihail_Mihov\StudentInfoSystem\obj\Debug\StudentInfoSystem.csproj.SuggestedBindingRedirects.cache
+D:\TU\6 semestyr\ps\Mihail_Mihov_36_501219032_exercise_5\PS_36_Mihail_Mihov\StudentInfoSystem\obj\Debug\MainWindow.g.cs
+D:\TU\6 semestyr\ps\Mihail_Mihov_36_501219032_exercise_5\PS_36_Mihail_Mihov\StudentInfoSystem\obj\Debug\App.g.cs
+D:\TU\6 semestyr\ps\Mihail_Mihov_36_501219032_exercise_5\PS_36_Mihail_Mihov\StudentInfoSystem\obj\Debug\StudentInfoSystem_MarkupCompile.cache
+D:\TU\6 semestyr\ps\Mihail_Mihov_36_501219032_exercise_5\PS_36_Mihail_Mihov\StudentInfoSystem\obj\Debug\StudentInfoSystem_MarkupCompile.lref
+D:\TU\6 semestyr\ps\Mihail_Mihov_36_501219032_exercise_5\PS_36_Mihail_Mihov\StudentInfoSystem\obj\Debug\MainWindow.baml
+D:\TU\6 semestyr\ps\Mihail_Mihov_36_501219032_exercise_5\PS_36_Mihail_Mihov\StudentInfoSystem\obj\Debug\StudentInfoSystem.g.resources
+D:\TU\6 semestyr\ps\Mihail_Mihov_36_501219032_exercise_5\PS_36_Mihail_Mihov\StudentInfoSystem\obj\Debug\StudentInfoSystem.Properties.Resources.resources
+D:\TU\6 semestyr\ps\Mihail_Mihov_36_501219032_exercise_5\PS_36_Mihail_Mihov\StudentInfoSystem\obj\Debug\StudentInfoSystem.csproj.GenerateResource.cache
+D:\TU\6 semestyr\ps\Mihail_Mihov_36_501219032_exercise_5\PS_36_Mihail_Mihov\StudentInfoSystem\obj\Debug\StudentInfoSystem.csproj.CoreCompileInputs.cache
+D:\TU\6 semestyr\ps\Mihail_Mihov_36_501219032_exercise_5\PS_36_Mihail_Mihov\StudentInfoSystem\obj\Debug\StudentInfoSystem.csproj.CopyComplete
+D:\TU\6 semestyr\ps\Mihail_Mihov_36_501219032_exercise_5\PS_36_Mihail_Mihov\StudentInfoSystem\obj\Debug\StudentInfoSystem.exe
+D:\TU\6 semestyr\ps\Mihail_Mihov_36_501219032_exercise_5\PS_36_Mihail_Mihov\StudentInfoSystem\obj\Debug\StudentInfoSystem.pdb
+D:\TU\6 semestyr\ps\Mihail_Mihov_36_501219032_exercise_5\PS_36_Mihail_Mihov\StudentInfoSystem\obj\Debug\StudentInfoSystem.csproj.AssemblyReference.cache
+D:\TU\6 semestyr\ps\Mihail_Mihov_36_501219032_exercise_5\PS_36_Mihail_Mihov\StudentInfoSystem\bin\Debug\EntityFramework.dll
+D:\TU\6 semestyr\ps\Mihail_Mihov_36_501219032_exercise_5\PS_36_Mihail_Mihov\StudentInfoSystem\bin\Debug\EntityFramework.SqlServer.dll
+D:\TU\6 semestyr\ps\Mihail_Mihov_36_501219032_exercise_5\PS_36_Mihail_Mihov\StudentInfoSystem\bin\Debug\EntityFramework.xml
+D:\TU\6 semestyr\ps\Mihail_Mihov_36_501219032_exercise_5\PS_36_Mihail_Mihov\StudentInfoSystem\bin\Debug\EntityFramework.SqlServer.xml
+D:\TU\6 semestyr\ps\Mihail_Mihov_36_501219032_exercise_6\PS_36_Mihail_Mihov\StudentInfoSystem\bin\Debug\log.txt
+D:\TU\6 semestyr\ps\Mihail_Mihov_36_501219032_exercise_6\PS_36_Mihail_Mihov\StudentInfoSystem\bin\Debug\StudentInfoSystem.exe.config
+D:\TU\6 semestyr\ps\Mihail_Mihov_36_501219032_exercise_6\PS_36_Mihail_Mihov\StudentInfoSystem\bin\Debug\StudentInfoSystem.exe
+D:\TU\6 semestyr\ps\Mihail_Mihov_36_501219032_exercise_6\PS_36_Mihail_Mihov\StudentInfoSystem\bin\Debug\StudentInfoSystem.pdb
+D:\TU\6 semestyr\ps\Mihail_Mihov_36_501219032_exercise_6\PS_36_Mihail_Mihov\StudentInfoSystem\bin\Debug\EntityFramework.dll
+D:\TU\6 semestyr\ps\Mihail_Mihov_36_501219032_exercise_6\PS_36_Mihail_Mihov\StudentInfoSystem\bin\Debug\EntityFramework.SqlServer.dll
+D:\TU\6 semestyr\ps\Mihail_Mihov_36_501219032_exercise_6\PS_36_Mihail_Mihov\StudentInfoSystem\bin\Debug\UserLogin.exe
+D:\TU\6 semestyr\ps\Mihail_Mihov_36_501219032_exercise_6\PS_36_Mihail_Mihov\StudentInfoSystem\bin\Debug\UserLogin.pdb
+D:\TU\6 semestyr\ps\Mihail_Mihov_36_501219032_exercise_6\PS_36_Mihail_Mihov\StudentInfoSystem\bin\Debug\UserLogin.exe.config
+D:\TU\6 semestyr\ps\Mihail_Mihov_36_501219032_exercise_6\PS_36_Mihail_Mihov\StudentInfoSystem\bin\Debug\EntityFramework.xml
+D:\TU\6 semestyr\ps\Mihail_Mihov_36_501219032_exercise_6\PS_36_Mihail_Mihov\StudentInfoSystem\bin\Debug\EntityFramework.SqlServer.xml
+D:\TU\6 semestyr\ps\Mihail_Mihov_36_501219032_exercise_6\PS_36_Mihail_Mihov\StudentInfoSystem\obj\Debug\StudentInfoSystem.csproj.AssemblyReference.cache
+D:\TU\6 semestyr\ps\Mihail_Mihov_36_501219032_exercise_6\PS_36_Mihail_Mihov\StudentInfoSystem\obj\Debug\StudentInfoSystem.csproj.SuggestedBindingRedirects.cache
+D:\TU\6 semestyr\ps\Mihail_Mihov_36_501219032_exercise_6\PS_36_Mihail_Mihov\StudentInfoSystem\obj\Debug\MainWindow.g.cs
+D:\TU\6 semestyr\ps\Mihail_Mihov_36_501219032_exercise_6\PS_36_Mihail_Mihov\StudentInfoSystem\obj\Debug\App.g.cs
+D:\TU\6 semestyr\ps\Mihail_Mihov_36_501219032_exercise_6\PS_36_Mihail_Mihov\StudentInfoSystem\obj\Debug\StudentInfoSystem_MarkupCompile.cache
+D:\TU\6 semestyr\ps\Mihail_Mihov_36_501219032_exercise_6\PS_36_Mihail_Mihov\StudentInfoSystem\obj\Debug\StudentInfoSystem_MarkupCompile.lref
+D:\TU\6 semestyr\ps\Mihail_Mihov_36_501219032_exercise_6\PS_36_Mihail_Mihov\StudentInfoSystem\obj\Debug\MainWindow.baml
+D:\TU\6 semestyr\ps\Mihail_Mihov_36_501219032_exercise_6\PS_36_Mihail_Mihov\StudentInfoSystem\obj\Debug\StudentInfoSystem.g.resources
+D:\TU\6 semestyr\ps\Mihail_Mihov_36_501219032_exercise_6\PS_36_Mihail_Mihov\StudentInfoSystem\obj\Debug\StudentInfoSystem.Properties.Resources.resources
+D:\TU\6 semestyr\ps\Mihail_Mihov_36_501219032_exercise_6\PS_36_Mihail_Mihov\StudentInfoSystem\obj\Debug\StudentInfoSystem.csproj.GenerateResource.cache
+D:\TU\6 semestyr\ps\Mihail_Mihov_36_501219032_exercise_6\PS_36_Mihail_Mihov\StudentInfoSystem\obj\Debug\StudentInfoSystem.csproj.CoreCompileInputs.cache
+D:\TU\6 semestyr\ps\Mihail_Mihov_36_501219032_exercise_6\PS_36_Mihail_Mihov\StudentInfoSystem\obj\Debug\StudentInfoSystem.csproj.CopyComplete
+D:\TU\6 semestyr\ps\Mihail_Mihov_36_501219032_exercise_6\PS_36_Mihail_Mihov\StudentInfoSystem\obj\Debug\StudentInfoSystem.exe
+D:\TU\6 semestyr\ps\Mihail_Mihov_36_501219032_exercise_6\PS_36_Mihail_Mihov\StudentInfoSystem\obj\Debug\StudentInfoSystem.pdb

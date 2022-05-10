@@ -1,0 +1,78 @@
+C:\Users\Lenovo\source\repos\project2\bebi\PS_36_Magdalena_Evgenieva\ExpenseIt\bin\Debug\ExpenseIt.exe.config
+C:\Users\Lenovo\source\repos\project2\bebi\PS_36_Magdalena_Evgenieva\ExpenseIt\bin\Debug\ExpenseIt.exe
+C:\Users\Lenovo\source\repos\project2\bebi\PS_36_Magdalena_Evgenieva\ExpenseIt\bin\Debug\ExpenseIt.pdb
+C:\Users\Lenovo\source\repos\project2\bebi\PS_36_Magdalena_Evgenieva\ExpenseIt\obj\Debug\ExpenseIt.csproj.AssemblyReference.cache
+C:\Users\Lenovo\source\repos\project2\bebi\PS_36_Magdalena_Evgenieva\ExpenseIt\obj\Debug\MainWindow.g.cs
+C:\Users\Lenovo\source\repos\project2\bebi\PS_36_Magdalena_Evgenieva\ExpenseIt\obj\Debug\App.g.cs
+C:\Users\Lenovo\source\repos\project2\bebi\PS_36_Magdalena_Evgenieva\ExpenseIt\obj\Debug\ExpenseIt_MarkupCompile.cache
+C:\Users\Lenovo\source\repos\project2\bebi\PS_36_Magdalena_Evgenieva\ExpenseIt\obj\Debug\ExpenseIt_MarkupCompile.lref
+C:\Users\Lenovo\source\repos\project2\bebi\PS_36_Magdalena_Evgenieva\ExpenseIt\obj\Debug\MainWindow.baml
+C:\Users\Lenovo\source\repos\project2\bebi\PS_36_Magdalena_Evgenieva\ExpenseIt\obj\Debug\ExpenseIt.g.resources
+C:\Users\Lenovo\source\repos\project2\bebi\PS_36_Magdalena_Evgenieva\ExpenseIt\obj\Debug\ExpenseIt.Properties.Resources.resources
+C:\Users\Lenovo\source\repos\project2\bebi\PS_36_Magdalena_Evgenieva\ExpenseIt\obj\Debug\ExpenseIt.csproj.GenerateResource.cache
+C:\Users\Lenovo\source\repos\project2\bebi\PS_36_Magdalena_Evgenieva\ExpenseIt\obj\Debug\ExpenseIt.csproj.CoreCompileInputs.cache
+C:\Users\Lenovo\source\repos\project2\bebi\PS_36_Magdalena_Evgenieva\ExpenseIt\obj\Debug\ExpenseIt.exe
+C:\Users\Lenovo\source\repos\project2\bebi\PS_36_Magdalena_Evgenieva\ExpenseIt\obj\Debug\ExpenseIt.pdb
+C:\Users\Lenovo\source\repos\project2\bebi\PS_36_Magdalena_Evgenieva\ExpenseIt\obj\Debug\ExpenseItHome.g.cs
+C:\Users\Lenovo\source\repos\project2\bebi\PS_36_Magdalena_Evgenieva\ExpenseIt\obj\Debug\ExpenseReport.g.cs
+C:\Users\Lenovo\source\repos\project2\bebi\PS_36_Magdalena_Evgenieva\ExpenseIt\obj\Debug\ExpenseItHome.baml
+C:\Users\Lenovo\source\repos\project2\bebi\PS_36_Magdalena_Evgenieva\ExpenseIt\obj\Debug\ExpenseReport.baml
+D:\TU\6 semestyr\ps\StudentInfoSystem-main\PS_36_Mihail_Mihov\ExpenseIt\bin\Debug\ExpenseIt.exe.config
+D:\TU\6 semestyr\ps\StudentInfoSystem-main\PS_36_Mihail_Mihov\ExpenseIt\bin\Debug\ExpenseIt.exe
+D:\TU\6 semestyr\ps\StudentInfoSystem-main\PS_36_Mihail_Mihov\ExpenseIt\bin\Debug\ExpenseIt.pdb
+D:\TU\6 semestyr\ps\StudentInfoSystem-main\PS_36_Mihail_Mihov\ExpenseIt\obj\Debug\ExpenseIt.csproj.SuggestedBindingRedirects.cache
+D:\TU\6 semestyr\ps\StudentInfoSystem-main\PS_36_Mihail_Mihov\ExpenseIt\obj\Debug\ExpenseItHome.g.cs
+D:\TU\6 semestyr\ps\StudentInfoSystem-main\PS_36_Mihail_Mihov\ExpenseIt\obj\Debug\ExpenseReport.g.cs
+D:\TU\6 semestyr\ps\StudentInfoSystem-main\PS_36_Mihail_Mihov\ExpenseIt\obj\Debug\MainWindow.g.cs
+D:\TU\6 semestyr\ps\StudentInfoSystem-main\PS_36_Mihail_Mihov\ExpenseIt\obj\Debug\App.g.cs
+D:\TU\6 semestyr\ps\StudentInfoSystem-main\PS_36_Mihail_Mihov\ExpenseIt\obj\Debug\ExpenseIt_MarkupCompile.cache
+D:\TU\6 semestyr\ps\StudentInfoSystem-main\PS_36_Mihail_Mihov\ExpenseIt\obj\Debug\ExpenseIt_MarkupCompile.lref
+D:\TU\6 semestyr\ps\StudentInfoSystem-main\PS_36_Mihail_Mihov\ExpenseIt\obj\Debug\ExpenseItHome.baml
+D:\TU\6 semestyr\ps\StudentInfoSystem-main\PS_36_Mihail_Mihov\ExpenseIt\obj\Debug\ExpenseReport.baml
+D:\TU\6 semestyr\ps\StudentInfoSystem-main\PS_36_Mihail_Mihov\ExpenseIt\obj\Debug\MainWindow.baml
+D:\TU\6 semestyr\ps\StudentInfoSystem-main\PS_36_Mihail_Mihov\ExpenseIt\obj\Debug\ExpenseIt.g.resources
+D:\TU\6 semestyr\ps\StudentInfoSystem-main\PS_36_Mihail_Mihov\ExpenseIt\obj\Debug\ExpenseIt.Properties.Resources.resources
+D:\TU\6 semestyr\ps\StudentInfoSystem-main\PS_36_Mihail_Mihov\ExpenseIt\obj\Debug\ExpenseIt.csproj.GenerateResource.cache
+D:\TU\6 semestyr\ps\StudentInfoSystem-main\PS_36_Mihail_Mihov\ExpenseIt\obj\Debug\ExpenseIt.csproj.CoreCompileInputs.cache
+D:\TU\6 semestyr\ps\StudentInfoSystem-main\PS_36_Mihail_Mihov\ExpenseIt\obj\Debug\ExpenseIt.exe
+D:\TU\6 semestyr\ps\StudentInfoSystem-main\PS_36_Mihail_Mihov\ExpenseIt\obj\Debug\ExpenseIt.pdb
+D:\TU\6 semestyr\ps\Mihail_Mihov_36_501219032_exercise_5\PS_36_Mihail_Mihov\ExpenseIt\bin\Debug\ExpenseIt.exe.config
+D:\TU\6 semestyr\ps\Mihail_Mihov_36_501219032_exercise_5\PS_36_Mihail_Mihov\ExpenseIt\bin\Debug\ExpenseIt.exe
+D:\TU\6 semestyr\ps\Mihail_Mihov_36_501219032_exercise_5\PS_36_Mihail_Mihov\ExpenseIt\bin\Debug\ExpenseIt.pdb
+D:\TU\6 semestyr\ps\Mihail_Mihov_36_501219032_exercise_5\PS_36_Mihail_Mihov\ExpenseIt\obj\Debug\ExpenseIt.csproj.AssemblyReference.cache
+D:\TU\6 semestyr\ps\Mihail_Mihov_36_501219032_exercise_5\PS_36_Mihail_Mihov\ExpenseIt\obj\Debug\ExpenseIt.csproj.SuggestedBindingRedirects.cache
+D:\TU\6 semestyr\ps\Mihail_Mihov_36_501219032_exercise_5\PS_36_Mihail_Mihov\ExpenseIt\obj\Debug\ExpenseItHome.g.cs
+D:\TU\6 semestyr\ps\Mihail_Mihov_36_501219032_exercise_5\PS_36_Mihail_Mihov\ExpenseIt\obj\Debug\ExpenseReport.g.cs
+D:\TU\6 semestyr\ps\Mihail_Mihov_36_501219032_exercise_5\PS_36_Mihail_Mihov\ExpenseIt\obj\Debug\MainWindow.g.cs
+D:\TU\6 semestyr\ps\Mihail_Mihov_36_501219032_exercise_5\PS_36_Mihail_Mihov\ExpenseIt\obj\Debug\App.g.cs
+D:\TU\6 semestyr\ps\Mihail_Mihov_36_501219032_exercise_5\PS_36_Mihail_Mihov\ExpenseIt\obj\Debug\ExpenseIt_MarkupCompile.cache
+D:\TU\6 semestyr\ps\Mihail_Mihov_36_501219032_exercise_5\PS_36_Mihail_Mihov\ExpenseIt\obj\Debug\ExpenseIt_MarkupCompile.lref
+D:\TU\6 semestyr\ps\Mihail_Mihov_36_501219032_exercise_5\PS_36_Mihail_Mihov\ExpenseIt\obj\Debug\ExpenseItHome.baml
+D:\TU\6 semestyr\ps\Mihail_Mihov_36_501219032_exercise_5\PS_36_Mihail_Mihov\ExpenseIt\obj\Debug\ExpenseReport.baml
+D:\TU\6 semestyr\ps\Mihail_Mihov_36_501219032_exercise_5\PS_36_Mihail_Mihov\ExpenseIt\obj\Debug\MainWindow.baml
+D:\TU\6 semestyr\ps\Mihail_Mihov_36_501219032_exercise_5\PS_36_Mihail_Mihov\ExpenseIt\obj\Debug\ExpenseIt.g.resources
+D:\TU\6 semestyr\ps\Mihail_Mihov_36_501219032_exercise_5\PS_36_Mihail_Mihov\ExpenseIt\obj\Debug\ExpenseIt.Properties.Resources.resources
+D:\TU\6 semestyr\ps\Mihail_Mihov_36_501219032_exercise_5\PS_36_Mihail_Mihov\ExpenseIt\obj\Debug\ExpenseIt.csproj.GenerateResource.cache
+D:\TU\6 semestyr\ps\Mihail_Mihov_36_501219032_exercise_5\PS_36_Mihail_Mihov\ExpenseIt\obj\Debug\ExpenseIt.csproj.CoreCompileInputs.cache
+D:\TU\6 semestyr\ps\Mihail_Mihov_36_501219032_exercise_5\PS_36_Mihail_Mihov\ExpenseIt\obj\Debug\ExpenseIt.exe
+D:\TU\6 semestyr\ps\Mihail_Mihov_36_501219032_exercise_5\PS_36_Mihail_Mihov\ExpenseIt\obj\Debug\ExpenseIt.pdb
+D:\TU\6 semestyr\ps\Mihail_Mihov_36_501219032_exercise_6\PS_36_Mihail_Mihov\ExpenseIt\bin\Debug\ExpenseIt.exe.config
+D:\TU\6 semestyr\ps\Mihail_Mihov_36_501219032_exercise_6\PS_36_Mihail_Mihov\ExpenseIt\bin\Debug\ExpenseIt.exe
+D:\TU\6 semestyr\ps\Mihail_Mihov_36_501219032_exercise_6\PS_36_Mihail_Mihov\ExpenseIt\bin\Debug\ExpenseIt.pdb
+D:\TU\6 semestyr\ps\Mihail_Mihov_36_501219032_exercise_6\PS_36_Mihail_Mihov\ExpenseIt\obj\Debug\ExpenseIt.csproj.AssemblyReference.cache
+D:\TU\6 semestyr\ps\Mihail_Mihov_36_501219032_exercise_6\PS_36_Mihail_Mihov\ExpenseIt\obj\Debug\ExpenseIt.csproj.SuggestedBindingRedirects.cache
+D:\TU\6 semestyr\ps\Mihail_Mihov_36_501219032_exercise_6\PS_36_Mihail_Mihov\ExpenseIt\obj\Debug\ExpenseItHome.g.cs
+D:\TU\6 semestyr\ps\Mihail_Mihov_36_501219032_exercise_6\PS_36_Mihail_Mihov\ExpenseIt\obj\Debug\ExpenseReport.g.cs
+D:\TU\6 semestyr\ps\Mihail_Mihov_36_501219032_exercise_6\PS_36_Mihail_Mihov\ExpenseIt\obj\Debug\MainWindow.g.cs
+D:\TU\6 semestyr\ps\Mihail_Mihov_36_501219032_exercise_6\PS_36_Mihail_Mihov\ExpenseIt\obj\Debug\App.g.cs
+D:\TU\6 semestyr\ps\Mihail_Mihov_36_501219032_exercise_6\PS_36_Mihail_Mihov\ExpenseIt\obj\Debug\ExpenseIt_MarkupCompile.cache
+D:\TU\6 semestyr\ps\Mihail_Mihov_36_501219032_exercise_6\PS_36_Mihail_Mihov\ExpenseIt\obj\Debug\ExpenseIt_MarkupCompile.lref
+D:\TU\6 semestyr\ps\Mihail_Mihov_36_501219032_exercise_6\PS_36_Mihail_Mihov\ExpenseIt\obj\Debug\ExpenseItHome.baml
+D:\TU\6 semestyr\ps\Mihail_Mihov_36_501219032_exercise_6\PS_36_Mihail_Mihov\ExpenseIt\obj\Debug\ExpenseReport.baml
+D:\TU\6 semestyr\ps\Mihail_Mihov_36_501219032_exercise_6\PS_36_Mihail_Mihov\ExpenseIt\obj\Debug\MainWindow.baml
+D:\TU\6 semestyr\ps\Mihail_Mihov_36_501219032_exercise_6\PS_36_Mihail_Mihov\ExpenseIt\obj\Debug\ExpenseIt.g.resources
+D:\TU\6 semestyr\ps\Mihail_Mihov_36_501219032_exercise_6\PS_36_Mihail_Mihov\ExpenseIt\obj\Debug\ExpenseIt.Properties.Resources.resources
+D:\TU\6 semestyr\ps\Mihail_Mihov_36_501219032_exercise_6\PS_36_Mihail_Mihov\ExpenseIt\obj\Debug\ExpenseIt.csproj.GenerateResource.cache
+D:\TU\6 semestyr\ps\Mihail_Mihov_36_501219032_exercise_6\PS_36_Mihail_Mihov\ExpenseIt\obj\Debug\ExpenseIt.csproj.CoreCompileInputs.cache
+D:\TU\6 semestyr\ps\Mihail_Mihov_36_501219032_exercise_6\PS_36_Mihail_Mihov\ExpenseIt\obj\Debug\ExpenseIt.exe
+D:\TU\6 semestyr\ps\Mihail_Mihov_36_501219032_exercise_6\PS_36_Mihail_Mihov\ExpenseIt\obj\Debug\ExpenseIt.pdb

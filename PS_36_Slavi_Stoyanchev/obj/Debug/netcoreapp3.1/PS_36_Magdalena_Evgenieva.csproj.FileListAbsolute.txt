@@ -1,0 +1,14 @@
+C:\Users\Lenovo\source\repos\PS_36_Magdalena_Evgenieva\PS_36_Magdalena_Evgenieva\bin\Debug\netcoreapp3.1\PS_36_Magdalena_Evgenieva.exe
+C:\Users\Lenovo\source\repos\PS_36_Magdalena_Evgenieva\PS_36_Magdalena_Evgenieva\bin\Debug\netcoreapp3.1\PS_36_Magdalena_Evgenieva.deps.json
+C:\Users\Lenovo\source\repos\PS_36_Magdalena_Evgenieva\PS_36_Magdalena_Evgenieva\bin\Debug\netcoreapp3.1\PS_36_Magdalena_Evgenieva.runtimeconfig.json
+C:\Users\Lenovo\source\repos\PS_36_Magdalena_Evgenieva\PS_36_Magdalena_Evgenieva\bin\Debug\netcoreapp3.1\PS_36_Magdalena_Evgenieva.runtimeconfig.dev.json
+C:\Users\Lenovo\source\repos\PS_36_Magdalena_Evgenieva\PS_36_Magdalena_Evgenieva\bin\Debug\netcoreapp3.1\PS_36_Magdalena_Evgenieva.dll
+C:\Users\Lenovo\source\repos\PS_36_Magdalena_Evgenieva\PS_36_Magdalena_Evgenieva\bin\Debug\netcoreapp3.1\PS_36_Magdalena_Evgenieva.pdb
+C:\Users\Lenovo\source\repos\PS_36_Magdalena_Evgenieva\PS_36_Magdalena_Evgenieva\obj\Debug\netcoreapp3.1\PS_36_Magdalena_Evgenieva.csproj.AssemblyReference.cache
+C:\Users\Lenovo\source\repos\PS_36_Magdalena_Evgenieva\PS_36_Magdalena_Evgenieva\obj\Debug\netcoreapp3.1\PS_36_Magdalena_Evgenieva.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Lenovo\source\repos\PS_36_Magdalena_Evgenieva\PS_36_Magdalena_Evgenieva\obj\Debug\netcoreapp3.1\PS_36_Magdalena_Evgenieva.AssemblyInfoInputs.cache
+C:\Users\Lenovo\source\repos\PS_36_Magdalena_Evgenieva\PS_36_Magdalena_Evgenieva\obj\Debug\netcoreapp3.1\PS_36_Magdalena_Evgenieva.AssemblyInfo.cs
+C:\Users\Lenovo\source\repos\PS_36_Magdalena_Evgenieva\PS_36_Magdalena_Evgenieva\obj\Debug\netcoreapp3.1\PS_36_Magdalena_Evgenieva.csproj.CoreCompileInputs.cache
+C:\Users\Lenovo\source\repos\PS_36_Magdalena_Evgenieva\PS_36_Magdalena_Evgenieva\obj\Debug\netcoreapp3.1\PS_36_Magdalena_Evgenieva.dll
+C:\Users\Lenovo\source\repos\PS_36_Magdalena_Evgenieva\PS_36_Magdalena_Evgenieva\obj\Debug\netcoreapp3.1\PS_36_Magdalena_Evgenieva.pdb
+C:\Users\Lenovo\source\repos\PS_36_Magdalena_Evgenieva\PS_36_Magdalena_Evgenieva\obj\Debug\netcoreapp3.1\PS_36_Magdalena_Evgenieva.genruntimeconfig.cache

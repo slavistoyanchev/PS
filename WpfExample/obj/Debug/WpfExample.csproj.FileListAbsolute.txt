@@ -1,0 +1,88 @@
+D:\TU\6 semestyr\ps\StudentInfoSystem-main\PS_36_Magdalena_Evgenieva\WpfExample\bin\Debug\WpfExample.exe.config
+D:\TU\6 semestyr\ps\StudentInfoSystem-main\PS_36_Magdalena_Evgenieva\WpfExample\bin\Debug\WpfExample.exe
+D:\TU\6 semestyr\ps\StudentInfoSystem-main\PS_36_Magdalena_Evgenieva\WpfExample\bin\Debug\WpfExample.pdb
+D:\TU\6 semestyr\ps\StudentInfoSystem-main\PS_36_Magdalena_Evgenieva\WpfExample\obj\Debug\WpfExample.csproj.AssemblyReference.cache
+D:\TU\6 semestyr\ps\StudentInfoSystem-main\PS_36_Magdalena_Evgenieva\WpfExample\obj\Debug\WpfExample.csproj.SuggestedBindingRedirects.cache
+D:\TU\6 semestyr\ps\StudentInfoSystem-main\PS_36_Magdalena_Evgenieva\WpfExample\obj\Debug\MainWindow.g.cs
+D:\TU\6 semestyr\ps\StudentInfoSystem-main\PS_36_Magdalena_Evgenieva\WpfExample\obj\Debug\NamesWindow.g.cs
+D:\TU\6 semestyr\ps\StudentInfoSystem-main\PS_36_Magdalena_Evgenieva\WpfExample\obj\Debug\App.g.cs
+D:\TU\6 semestyr\ps\StudentInfoSystem-main\PS_36_Magdalena_Evgenieva\WpfExample\obj\Debug\WpfExample_MarkupCompile.cache
+D:\TU\6 semestyr\ps\StudentInfoSystem-main\PS_36_Magdalena_Evgenieva\WpfExample\obj\Debug\WpfExample_MarkupCompile.lref
+D:\TU\6 semestyr\ps\StudentInfoSystem-main\PS_36_Magdalena_Evgenieva\WpfExample\obj\Debug\MainWindow.baml
+D:\TU\6 semestyr\ps\StudentInfoSystem-main\PS_36_Magdalena_Evgenieva\WpfExample\obj\Debug\NamesWindow.baml
+D:\TU\6 semestyr\ps\StudentInfoSystem-main\PS_36_Magdalena_Evgenieva\WpfExample\obj\Debug\WpfExample.g.resources
+D:\TU\6 semestyr\ps\StudentInfoSystem-main\PS_36_Magdalena_Evgenieva\WpfExample\obj\Debug\WpfExample.Properties.Resources.resources
+D:\TU\6 semestyr\ps\StudentInfoSystem-main\PS_36_Magdalena_Evgenieva\WpfExample\obj\Debug\WpfExample.csproj.GenerateResource.cache
+D:\TU\6 semestyr\ps\StudentInfoSystem-main\PS_36_Magdalena_Evgenieva\WpfExample\obj\Debug\WpfExample.csproj.CoreCompileInputs.cache
+D:\TU\6 semestyr\ps\StudentInfoSystem-main\PS_36_Magdalena_Evgenieva\WpfExample\obj\Debug\WpfExample.exe
+D:\TU\6 semestyr\ps\StudentInfoSystem-main\PS_36_Magdalena_Evgenieva\WpfExample\obj\Debug\WpfExample.pdb
+D:\TU\6 semestyr\ps\StudentInfoSystem-main\PS_36_Mihail_Mihov\WpfExample\bin\Debug\WpfExample.exe.config
+D:\TU\6 semestyr\ps\StudentInfoSystem-main\PS_36_Mihail_Mihov\WpfExample\bin\Debug\WpfExample.exe
+D:\TU\6 semestyr\ps\StudentInfoSystem-main\PS_36_Mihail_Mihov\WpfExample\bin\Debug\WpfExample.pdb
+D:\TU\6 semestyr\ps\StudentInfoSystem-main\PS_36_Mihail_Mihov\WpfExample\obj\Debug\WpfExample.csproj.SuggestedBindingRedirects.cache
+D:\TU\6 semestyr\ps\StudentInfoSystem-main\PS_36_Mihail_Mihov\WpfExample\obj\Debug\MainWindow.g.cs
+D:\TU\6 semestyr\ps\StudentInfoSystem-main\PS_36_Mihail_Mihov\WpfExample\obj\Debug\NamesWindow.g.cs
+D:\TU\6 semestyr\ps\StudentInfoSystem-main\PS_36_Mihail_Mihov\WpfExample\obj\Debug\App.g.cs
+D:\TU\6 semestyr\ps\StudentInfoSystem-main\PS_36_Mihail_Mihov\WpfExample\obj\Debug\WpfExample_MarkupCompile.cache
+D:\TU\6 semestyr\ps\StudentInfoSystem-main\PS_36_Mihail_Mihov\WpfExample\obj\Debug\WpfExample_MarkupCompile.lref
+D:\TU\6 semestyr\ps\StudentInfoSystem-main\PS_36_Mihail_Mihov\WpfExample\obj\Debug\MainWindow.baml
+D:\TU\6 semestyr\ps\StudentInfoSystem-main\PS_36_Mihail_Mihov\WpfExample\obj\Debug\NamesWindow.baml
+D:\TU\6 semestyr\ps\StudentInfoSystem-main\PS_36_Mihail_Mihov\WpfExample\obj\Debug\WpfExample.g.resources
+D:\TU\6 semestyr\ps\StudentInfoSystem-main\PS_36_Mihail_Mihov\WpfExample\obj\Debug\WpfExample.Properties.Resources.resources
+D:\TU\6 semestyr\ps\StudentInfoSystem-main\PS_36_Mihail_Mihov\WpfExample\obj\Debug\WpfExample.csproj.GenerateResource.cache
+D:\TU\6 semestyr\ps\StudentInfoSystem-main\PS_36_Mihail_Mihov\WpfExample\obj\Debug\WpfExample.csproj.CoreCompileInputs.cache
+D:\TU\6 semestyr\ps\StudentInfoSystem-main\PS_36_Mihail_Mihov\WpfExample\obj\Debug\WpfExample.exe
+D:\TU\6 semestyr\ps\StudentInfoSystem-main\PS_36_Mihail_Mihov\WpfExample\obj\Debug\WpfExample.pdb
+D:\TU\6 semestyr\ps\Mihail_Mihov_36_501219032_exercise_5\PS_36_Mihail_Mihov\WpfExample\bin\Debug\WpfExample.exe.config
+D:\TU\6 semestyr\ps\Mihail_Mihov_36_501219032_exercise_5\PS_36_Mihail_Mihov\WpfExample\bin\Debug\WpfExample.exe
+D:\TU\6 semestyr\ps\Mihail_Mihov_36_501219032_exercise_5\PS_36_Mihail_Mihov\WpfExample\bin\Debug\WpfExample.pdb
+D:\TU\6 semestyr\ps\Mihail_Mihov_36_501219032_exercise_5\PS_36_Mihail_Mihov\WpfExample\obj\Debug\WpfExample.csproj.SuggestedBindingRedirects.cache
+D:\TU\6 semestyr\ps\Mihail_Mihov_36_501219032_exercise_5\PS_36_Mihail_Mihov\WpfExample\obj\Debug\MainWindow.g.cs
+D:\TU\6 semestyr\ps\Mihail_Mihov_36_501219032_exercise_5\PS_36_Mihail_Mihov\WpfExample\obj\Debug\NamesWindow.g.cs
+D:\TU\6 semestyr\ps\Mihail_Mihov_36_501219032_exercise_5\PS_36_Mihail_Mihov\WpfExample\obj\Debug\App.g.cs
+D:\TU\6 semestyr\ps\Mihail_Mihov_36_501219032_exercise_5\PS_36_Mihail_Mihov\WpfExample\obj\Debug\WpfExample_MarkupCompile.cache
+D:\TU\6 semestyr\ps\Mihail_Mihov_36_501219032_exercise_5\PS_36_Mihail_Mihov\WpfExample\obj\Debug\WpfExample_MarkupCompile.lref
+D:\TU\6 semestyr\ps\Mihail_Mihov_36_501219032_exercise_5\PS_36_Mihail_Mihov\WpfExample\obj\Debug\MainWindow.baml
+D:\TU\6 semestyr\ps\Mihail_Mihov_36_501219032_exercise_5\PS_36_Mihail_Mihov\WpfExample\obj\Debug\NamesWindow.baml
+D:\TU\6 semestyr\ps\Mihail_Mihov_36_501219032_exercise_5\PS_36_Mihail_Mihov\WpfExample\obj\Debug\WpfExample.g.resources
+D:\TU\6 semestyr\ps\Mihail_Mihov_36_501219032_exercise_5\PS_36_Mihail_Mihov\WpfExample\obj\Debug\WpfExample.Properties.Resources.resources
+D:\TU\6 semestyr\ps\Mihail_Mihov_36_501219032_exercise_5\PS_36_Mihail_Mihov\WpfExample\obj\Debug\WpfExample.csproj.GenerateResource.cache
+D:\TU\6 semestyr\ps\Mihail_Mihov_36_501219032_exercise_5\PS_36_Mihail_Mihov\WpfExample\obj\Debug\WpfExample.csproj.CoreCompileInputs.cache
+D:\TU\6 semestyr\ps\Mihail_Mihov_36_501219032_exercise_5\PS_36_Mihail_Mihov\WpfExample\obj\Debug\WpfExample.exe
+D:\TU\6 semestyr\ps\Mihail_Mihov_36_501219032_exercise_5\PS_36_Mihail_Mihov\WpfExample\obj\Debug\WpfExample.pdb
+D:\TU\6 semestyr\ps\Mihail_Mihov_36_501219032_exercise_6\PS_36_Mihail_Mihov\WpfExample\bin\Debug\WpfExample.exe.config
+D:\TU\6 semestyr\ps\Mihail_Mihov_36_501219032_exercise_6\PS_36_Mihail_Mihov\WpfExample\bin\Debug\WpfExample.exe
+D:\TU\6 semestyr\ps\Mihail_Mihov_36_501219032_exercise_6\PS_36_Mihail_Mihov\WpfExample\bin\Debug\WpfExample.pdb
+D:\TU\6 semestyr\ps\Mihail_Mihov_36_501219032_exercise_6\PS_36_Mihail_Mihov\WpfExample\obj\Debug\WpfExample.csproj.AssemblyReference.cache
+D:\TU\6 semestyr\ps\Mihail_Mihov_36_501219032_exercise_6\PS_36_Mihail_Mihov\WpfExample\obj\Debug\WpfExample.csproj.SuggestedBindingRedirects.cache
+D:\TU\6 semestyr\ps\Mihail_Mihov_36_501219032_exercise_6\PS_36_Mihail_Mihov\WpfExample\obj\Debug\MainWindow.g.cs
+D:\TU\6 semestyr\ps\Mihail_Mihov_36_501219032_exercise_6\PS_36_Mihail_Mihov\WpfExample\obj\Debug\NamesWindow.g.cs
+D:\TU\6 semestyr\ps\Mihail_Mihov_36_501219032_exercise_6\PS_36_Mihail_Mihov\WpfExample\obj\Debug\App.g.cs
+D:\TU\6 semestyr\ps\Mihail_Mihov_36_501219032_exercise_6\PS_36_Mihail_Mihov\WpfExample\obj\Debug\WpfExample_MarkupCompile.cache
+D:\TU\6 semestyr\ps\Mihail_Mihov_36_501219032_exercise_6\PS_36_Mihail_Mihov\WpfExample\obj\Debug\WpfExample_MarkupCompile.lref
+D:\TU\6 semestyr\ps\Mihail_Mihov_36_501219032_exercise_6\PS_36_Mihail_Mihov\WpfExample\obj\Debug\MainWindow.baml
+D:\TU\6 semestyr\ps\Mihail_Mihov_36_501219032_exercise_6\PS_36_Mihail_Mihov\WpfExample\obj\Debug\NamesWindow.baml
+D:\TU\6 semestyr\ps\Mihail_Mihov_36_501219032_exercise_6\PS_36_Mihail_Mihov\WpfExample\obj\Debug\WpfExample.g.resources
+D:\TU\6 semestyr\ps\Mihail_Mihov_36_501219032_exercise_6\PS_36_Mihail_Mihov\WpfExample\obj\Debug\WpfExample.Properties.Resources.resources
+D:\TU\6 semestyr\ps\Mihail_Mihov_36_501219032_exercise_6\PS_36_Mihail_Mihov\WpfExample\obj\Debug\WpfExample.csproj.GenerateResource.cache
+D:\TU\6 semestyr\ps\Mihail_Mihov_36_501219032_exercise_6\PS_36_Mihail_Mihov\WpfExample\obj\Debug\WpfExample.csproj.CoreCompileInputs.cache
+D:\TU\6 semestyr\ps\Mihail_Mihov_36_501219032_exercise_6\PS_36_Mihail_Mihov\WpfExample\obj\Debug\WpfExample.exe
+D:\TU\6 semestyr\ps\Mihail_Mihov_36_501219032_exercise_6\PS_36_Mihail_Mihov\WpfExample\obj\Debug\WpfExample.pdb
+C:\Users\user\Desktop\PS-main\WpfExample\bin\Debug\WpfExample.exe.config
+C:\Users\user\Desktop\PS-main\WpfExample\bin\Debug\WpfExample.exe
+C:\Users\user\Desktop\PS-main\WpfExample\bin\Debug\WpfExample.pdb
+C:\Users\user\Desktop\PS-main\WpfExample\obj\Debug\WpfExample.csproj.AssemblyReference.cache
+C:\Users\user\Desktop\PS-main\WpfExample\obj\Debug\WpfExample.csproj.SuggestedBindingRedirects.cache
+C:\Users\user\Desktop\PS-main\WpfExample\obj\Debug\MainWindow.g.cs
+C:\Users\user\Desktop\PS-main\WpfExample\obj\Debug\NamesWindow.g.cs
+C:\Users\user\Desktop\PS-main\WpfExample\obj\Debug\App.g.cs
+C:\Users\user\Desktop\PS-main\WpfExample\obj\Debug\WpfExample_MarkupCompile.cache
+C:\Users\user\Desktop\PS-main\WpfExample\obj\Debug\WpfExample_MarkupCompile.lref
+C:\Users\user\Desktop\PS-main\WpfExample\obj\Debug\MainWindow.baml
+C:\Users\user\Desktop\PS-main\WpfExample\obj\Debug\NamesWindow.baml
+C:\Users\user\Desktop\PS-main\WpfExample\obj\Debug\WpfExample.g.resources
+C:\Users\user\Desktop\PS-main\WpfExample\obj\Debug\WpfExample.Properties.Resources.resources
+C:\Users\user\Desktop\PS-main\WpfExample\obj\Debug\WpfExample.csproj.GenerateResource.cache
+C:\Users\user\Desktop\PS-main\WpfExample\obj\Debug\WpfExample.csproj.CoreCompileInputs.cache
+C:\Users\user\Desktop\PS-main\WpfExample\obj\Debug\WpfExample.exe
+C:\Users\user\Desktop\PS-main\WpfExample\obj\Debug\WpfExample.pdb
